@@ -1,6 +1,5 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
@@ -25,27 +24,14 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+# GasTracker React Native Screenshots
 
-When you're ready, run:
+<img width="200" height="355" alt="Simulator Screenshot - iPhone SE (3rd generation) - 2026-04-25 at 20 31 56" src="https://github.com/user-attachments/assets/07734595-20be-4fa1-bdef-63564cee4e69" />
 
-```bash
-npm run reset-project
-```
+<img width="200" height="355" alt="Simulator Screenshot - iPhone SE (3rd generation) - 2026-04-25 at 20 31 58" src="https://github.com/user-attachments/assets/f77f4ceb-fbd9-4767-b401-9dc521b15ef1" />
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<img width="200" height="355" alt="Simulator Screenshot - iPhone SE (3rd generation) - 2026-04-25 at 20 32 10" src="https://github.com/user-attachments/assets/2ef38bcf-21f9-42e8-9b81-6b1a45035d87" />
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# GasTrackerRN
